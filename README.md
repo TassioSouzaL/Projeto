@@ -1,9 +1,3 @@
-# Primeiro teste
+# #Esta é uma pasta dos meus projetos de curso
 
-<<<<<<< HEAD
-Resolução do conflito
-=======
-## este é um problema resolução de conflitos (resolver pelo git)
->>>>>>> 067dede563254bf09e8df36bbf979769f2de239d
-
-# está é a resoluçaõ
+Aqui você encontrará todos meus projetos na minha trajetória de estudos para um futuro Full-Stack
